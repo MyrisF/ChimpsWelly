@@ -1,0 +1,71 @@
+{
+  "n_folds": 5,
+  "n_videos": 25,
+  "folds": [
+    {
+      "fold": 1,
+      "file": "ChimpsMay/wellington_cv/fold1.json",
+      "n_train": 20,
+      "n_val": 5,
+      "val_tasks": [
+        "task_14",
+        "task_28",
+        "task_31",
+        "task_37",
+        "task_43"
+      ]
+    },
+    {
+      "fold": 2,
+      "file": "ChimpsMay/wellington_cv/fold2.json",
+      "n_train": 20,
+      "n_val": 5,
+      "val_tasks": [
+        "task_15",
+        "task_29",
+        "task_32",
+        "task_38",
+        "task_44"
+      ]
+    },
+    {
+      "fold": 3,
+      "file": "ChimpsMay/wellington_cv/fold3.json",
+      "n_train": 20,
+      "n_val": 5,
+      "val_tasks": [
+        "task_16",
+        "task_30",
+        "task_33",
+        "task_39",
+        "task_45"
+      ]
+    },
+    {
+      "fold": 4,
+      "file": "ChimpsMay/wellington_cv/fold4.json",
+      "n_train": 20,
+      "n_val": 5,
+      "val_tasks": [
+        "task_17",
+        "task_26",
+        "task_34",
+        "task_40",
+        "task_41"
+      ]
+    },
+    {
+      "fold": 5,
+      "file": "ChimpsMay/wellington_cv/fold5.json",
+      "n_train": 20,
+      "n_val": 5,
+      "val_tasks": [
+        "task_0",
+        "task_27",
+        "task_35",
+        "task_36",
+        "task_42"
+      ]
+    }
+  ]
+}

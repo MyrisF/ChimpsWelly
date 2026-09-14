@@ -1,0 +1,86 @@
+video,start_frame,end_frame,n_frames,draft_wood_label,gt_action,gt_object,notes
+pose1,0,93,94,none,walk,none,物体=none：无木/石/草交互。动作请补 walk|stand|sit|other
+pose1,94,279,186,,walk,rock,
+pose1,280,381,102,,other,rock,
+pose2,0,122,123,none,other,none,物体=none：无木/石/草交互。动作请补 walk|stand|sit|other
+pose2,123,192,70,,walk,rock,
+pose2,193,241,49,,stand,rock,hand-only on wood: action=other unless they are also walking/sitting
+pose2,242,279,38,,walk,rock,
+pose2,280,318,39,,stand,rock,
+pose2,319,352,34,,walk,rock,
+pose2,353,435,83,,stand,rock,hand-only on wood: action=other unless they are also walking/sitting
+pose2,436,548,113,,walk,rock,
+pose2,549,569,21,,walk,none,物体=none：无木/石/草交互。动作请补 walk|stand|sit|other
+pose3,0,23,24,none,other,grass,
+pose3,24,132,109,,stand,grass,
+pose3,133,528,396,,walk,grass,
+pose3,529,1450,922,,stand,grass,
+pose3,1451,1572,122,,walk,grass,
+pose3,1573,1806,234,,stand,grass,
+pose3,1807,2380,574,,walk,grass,
+pose3,2381,3011,631,,walk,rock,
+pose3,3012,3057,46,,sit,rock,
+pose4,0,73,74,none,walk,grass,
+pose4,74,168,95,,walk,rock,
+pose4,169,391,223,,stand,rock,
+pose4,392,538,147,,walk,rock,hand-only on wood: action=other unless they are also walking/sitting
+pose4,539,557,19,,stand,rock,
+pose5,0,493,494,,walk,grass,
+Pose6,0,36,37,,other,wood,
+Pose6,37,195,159,none,walk,wood,
+Pose6,196,322,127,sit_wood,sit,wood,
+Pose7,0,25,26,sit_wood,sit,wood,
+Pose7,26,98,73,hand_wood,other,wood,
+Pose7,99,226,128,walk_wood,walk,wood,
+Pose7,227,297,71,sit_wood,sit,wood,
+Pose8,0,205,206,walk_wood,walk,wood,
+Pose8,206,375,170,none,other,none,物体=none：无木/石/草交互。动作请补 walk|stand|sit|other
+Pose9,0,254,255,walk_wood,walk,wood,
+Pose9,255,379,125,sit_wood,sit,wood,
+Pose10,0,219,220,walk_wood,walk,wood,
+Pose10,220,332,113,sit_wood,sit,wood,
+Pose11,0,168,169,none,walk,grass,
+Pose12,0,60,61,none,walk,rock,
+Pose12,61,99,39,,stand,rock,
+Pose12,100,192,93,,walk,rock,
+Pose12,193,242,50,,other,none,物体=none：无木/石/草交互。动作请补 walk|stand|sit|other
+Pose12,243,293,51,,sit,none,
+Pose13,0,170,171,none,walk,rock,
+Pose13,171,405,235,,sit,rock,
+Pose14,0,41,42,none,walk,grass,
+Pose14,42,140,99,,stand,grass,
+Pose14,141,226,86,,walk,grass,
+Pose15,0,38,39,none,walk,grass,物体=none：无木/石/草交互。动作请补 walk|stand|sit|other
+Pose15,39,82,44,,walk,none,物体=none：无木/石/草交互。动作请补 walk|stand|sit|other
+Pose16,0,37,38,none,walk,none,
+Pose16,38,52,15,hand_wood,other,wood,
+Pose16,53,120,68,walk_wood,walk,wood,
+Pose16,121,199,79,none,sit,wood,
+Pose17,0,111,112,none,walk,grass,物体=none：无木/石/草交互。动作请补 walk|stand|sit|other
+Pose17,112,143,32,,walk,none,
+Pose18,0,161,162,none,walk,rock,
+Pose18,162,272,111,,stand,rock,
+Pose18,273,424,152,,walk,rock,
+Pose18,425,700,276,,stand,rock,
+Pose18,701,817,117,,walk,rock,
+Pose19,0,92,93,walk_wood,walk,wood,
+Pose19,93,117,25,stand_wood,stand,wood,
+Pose19,118,176,59,walk_wood,walk,wood,
+Pose19,177,332,156,sit_wood,sit,wood,
+Pose20,0,19,20,walk_wood,walk,wood,
+Pose20,20,189,170,none,walk,rock,
+Pose21,0,107,108,none,walk,rock,
+Pose21,108,168,61,,sit,rock,
+Pose22,0,32,33,none,stand,grass,
+Pose22,33,362,330,,walk,grass,物体=none：无木/石/草交互。动作请补 walk|stand|sit|other
+Pose23,0,294,295,none,other,none,
+Pose23,295,339,45,stand_wood,stand,wood,
+Pose24,0,56,57,,walk,rock,物体=none：无木/石/草交互。动作请补 walk|stand|sit|other
+Pose24,57,101,45,none,walk,none,
+Pose24,102,245,144,walk_wood,walk,wood,物体=none：无木/石/草交互。动作请补 walk|stand|sit|other
+Pose24,246,292,47,none,walk,none,
+Pose24,293,466,174,walk_wood,walk,wood,物体=none：无木/石/草交互。动作请补 walk|stand|sit|other
+Pose24,467,606,140,none,other,none,
+Pose25,0,5,6,sit_wood,sit,wood,
+Pose25,6,236,231,walk_wood,walk,wood,
+Pose25,237,299,63,sit_wood,sit,wood,

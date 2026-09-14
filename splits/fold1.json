@@ -1,0 +1,33 @@
+{
+  "fold": 1,
+  "_comment": "Video-level 5-fold CV split for Wellington fine-tuning.",
+  "val": [
+    "task_14",
+    "task_28",
+    "task_31",
+    "task_37",
+    "task_43"
+  ],
+  "train": [
+    "task_0",
+    "task_15",
+    "task_16",
+    "task_17",
+    "task_26",
+    "task_27",
+    "task_29",
+    "task_30",
+    "task_32",
+    "task_33",
+    "task_34",
+    "task_35",
+    "task_36",
+    "task_38",
+    "task_39",
+    "task_40",
+    "task_41",
+    "task_42",
+    "task_44",
+    "task_45"
+  ]
+}
