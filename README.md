@@ -1,7 +1,3 @@
-
-
-https://github.com/user-attachments/assets/59ae9643-e2ea-4509-a75c-72c041cb11b6
-
 # ChimpsWelly
 
 ChimpsWelly is a small chimpanzee video set recorded at Wellington Zoo. It contains **25 clips**, **1,078 pose-annotated frames**, and per-segment labels for locomotion and the support surface.
