@@ -2,7 +2,7 @@
 
 ChimpsWelly is a small chimpanzee video set recorded at Wellington Zoo. It contains **25 clips**, **1,078 pose-annotated frames**, and per-segment labels for locomotion and the support surface.
 
-Paper: *Cross-Zoo Transfer of Chimpanzee Pose Estimation and Chimp–Object Interaction Recognition*
+Paper: *Cross-Zoo Transfer of Chimpanzee Pose Estimation and Chimp–Object Interaction Recognition* (Submitted IVCNZ 2026)
 
 ## Demo
 
