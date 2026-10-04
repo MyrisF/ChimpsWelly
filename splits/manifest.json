@@ -4,67 +4,67 @@
   "folds": [
     {
       "fold": 1,
-      "file": "ChimpsMay/wellington_cv/fold1.json",
+      "file": "splits/fold1.json",
       "n_train": 20,
       "n_val": 5,
-      "val_tasks": [
-        "task_14",
-        "task_28",
-        "task_31",
-        "task_37",
-        "task_43"
+      "val": [
+        "pose1",
+        "Pose10",
+        "Pose13",
+        "Pose19",
+        "Pose25"
       ]
     },
     {
       "fold": 2,
-      "file": "ChimpsMay/wellington_cv/fold2.json",
+      "file": "splits/fold2.json",
       "n_train": 20,
       "n_val": 5,
-      "val_tasks": [
-        "task_15",
-        "task_29",
-        "task_32",
-        "task_38",
-        "task_44"
+      "val": [
+        "pose2",
+        "Pose6",
+        "Pose11",
+        "Pose14",
+        "Pose20"
       ]
     },
     {
       "fold": 3,
-      "file": "ChimpsMay/wellington_cv/fold3.json",
+      "file": "splits/fold3.json",
       "n_train": 20,
       "n_val": 5,
-      "val_tasks": [
-        "task_16",
-        "task_30",
-        "task_33",
-        "task_39",
-        "task_45"
+      "val": [
+        "pose3",
+        "Pose7",
+        "Pose12",
+        "Pose15",
+        "Pose21"
       ]
     },
     {
       "fold": 4,
-      "file": "ChimpsMay/wellington_cv/fold4.json",
+      "file": "splits/fold4.json",
       "n_train": 20,
       "n_val": 5,
-      "val_tasks": [
-        "task_17",
-        "task_26",
-        "task_34",
-        "task_40",
-        "task_41"
+      "val": [
+        "pose4",
+        "Pose8",
+        "Pose16",
+        "Pose22",
+        "Pose23"
       ]
     },
     {
       "fold": 5,
-      "file": "ChimpsMay/wellington_cv/fold5.json",
+      "file": "splits/fold5.json",
       "n_train": 20,
       "n_val": 5,
-      "val_tasks": [
-        "task_0",
-        "task_27",
-        "task_35",
-        "task_36",
-        "task_42"
+      "val": [
+        "pose5",
+        "Pose9",
+        "Pose17",
+        "Pose18",
+        "Pose24"
       ]
     }
   ]
